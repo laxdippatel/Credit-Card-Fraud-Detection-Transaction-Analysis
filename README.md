@@ -1,6 +1,5 @@
 # Credit-Card-Fraud-Detection-Transaction-Analysis
-This project performs a comprehensive analysis of credit card transaction data using Python, Pandas, and NumPy.
-
+📊 End-to-end credit card transaction analysis with fraud detection, time series insights, and ETL using Pandas & NumPy. Real-world scenario simulation for data analysts.
 
 # 💳 Credit Card Fraud Detection & Transaction Analysis
 
@@ -39,3 +38,17 @@ This project simulates a **credit card transaction dataset** and performs compre
 .
 ├── fraud_detection_analysis.py
 ├── output/
+```
+
+### 📦 Libraries Used
+
+- Python 3.x
+- Pandas
+- NumPy
+- Matplotlib (for optional visualizations)
+
+### 📚 Learning Outcomes
+- End-to-end ETL and financial transaction processing
+- Time series resampling and analysis
+- Risk scoring and fraud detection
+- Feature engineering using real-world logic
